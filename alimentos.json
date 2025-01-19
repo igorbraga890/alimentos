@@ -129,21 +129,21 @@
         {"id": "B041", "nome": "Vitamina de frutas"}
     ],
     "sobremesa" : [
-        {"codigo": "S001", "descricao": "Abacaxi"},
-        {"codigo": "S002", "descricao": "Banana"},
-        {"codigo": "S003", "descricao": "Canjica"},
-        {"codigo": "S004", "descricao": "Doce de abóbora"},
-        {"codigo": "S005", "descricao": "Gelatina de cereja"},
-        {"codigo": "S006", "descricao": "Gelatina de framboesa"},
-        {"codigo": "S007", "descricao": "Gelatina de morango"},
-        {"codigo": "S008", "descricao": "Gelatina de uva"},
-        {"codigo": "S009", "descricao": "Laranja"},
-        {"codigo": "S010", "descricao": "Maçã"},
-        {"codigo": "S011", "descricao": "Mamão"},
-        {"codigo": "S012", "descricao": "Melancia"},
-        {"codigo": "S013", "descricao": "Melão"},
-        {"codigo": "S014", "descricao": "Mexerica"},
-        {"codigo": "S015", "descricao": "Picolé de fruta"},
-        {"codigo": "S016", "descricao": "Salada de frutas"}
+        {"id": "S001", "nome": "Abacaxi"},
+        {"id": "S002", "nome": "Banana"},
+        {"id": "S003", "nome": "Canjica"},
+        {"id": "S004", "nome": "Doce de abóbora"},
+        {"id": "S005", "nome": "Gelatina de cereja"},
+        {"id": "S006", "nome": "Gelatina de framboesa"},
+        {"id": "S007", "nome": "Gelatina de morango"},
+        {"id": "S008", "nome": "Gelatina de uva"},
+        {"id": "S009", "nome": "Laranja"},
+        {"id": "S010", "nome": "Maçã"},
+        {"id": "S011", "nome": "Mamão"},
+        {"id": "S012", "nome": "Melancia"},
+        {"id": "S013", "nome": "Melão"},
+        {"id": "S014", "nome": "Mexerica"},
+        {"id": "S015", "nome": "Picolé de fruta"},
+        {"id": "S016", "nome": "Salada de frutas"}
     ]
 }
